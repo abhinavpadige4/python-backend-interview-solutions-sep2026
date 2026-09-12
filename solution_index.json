@@ -1,0 +1,27 @@
+{
+  "problems_solved": 15,
+  "files_created": [
+    {"name": "solutions/0001_two_sum.py", "description": "Two Sum solution using hash map"},
+    {"name": "solutions/0002_reverse_integer.py", "description": "Reverse Integer solution with overflow handling"},
+    {"name": "solutions/0003_palindrome_number.py", "description": "Palindrome Number solution (string and mathematical approaches)"},
+    {"name": "solutions/0004_merge_intervals.py", "description": "Merge Intervals solution using sorting and merging"},
+    {"name": "solutions/0005_insert_interval.py", "description": "Insert Interval solution with interval merging"},
+    {"name": "solutions/0006_lru_cache.py", "description": "LRU Cache implementation using hash map and doubly linked list"},
+    {"name": "solutions/0007_reverse_linked_list.py", "description": "Reverse Linked List solution (iterative and recursive)"},
+    {"name": "solutions/0008_merge_two_sorted_lists.py", "description": "Merge Two Sorted Lists solution"},
+    {"name": "solutions/0009_copy_list_random_pointer.py", "description": "Copy List with Random Pointer solution (hash map and interweaving)"},
+    {"name": "solutions/0010_course_schedule.py", "description": "Course Schedule solution (topological sort and DFS cycle detection)"},
+    {"name": "solutions/0011_number_of_islands.py", "description": "Number of Islands solution (BFS, DFS, and Union-Find)"},
+    {"name": "solutions/0012_kth_largest_element.py", "description": "Kth Largest Element solution (min heap, sorting, QuickSelect)"},
+    {"name": "solutions/0013_top_k_frequent.py", "description": "Top K Frequent Elements solution (heap and bucket sort)"},
+    {"name": "solutions/0014_word_ladder.py", "description": "Word Ladder solution (BFS with preprocessing and bidirectional optimization)"},
+    {"name": "solutions/0015_alien_dictionary.py", "description": "Alien Dictionary solution (topological sort and DFS cycle detection)"}
+  ],
+  "concepts_covered": [
+    "arrays", "hash-table", "two-pointers", "linked-list", "string-manipulation",
+    "sorting", "interval-merging", "stack", "queue", "heap", "tree", "graph",
+    "topological-sort", "bfs", "dfs", "union-find", "dynamic-programming",
+    "greedy-algorithm", "oop", "decorators", "generators", "context-managers",
+    "rest-api", "docker", "sqlalchemy", "concurrency", "asyncio", "system-design"
+  ]
+}
